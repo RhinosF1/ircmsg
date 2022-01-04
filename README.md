@@ -1,6 +1,6 @@
 # Go **IRC** message parser package
 
-[![GoDoc](https://godoc.org/github.com/ugjka/ircmsg?status.svg)](https://godoc.org/github.com/ugjka/ircmsg)
+[![GoDoc](https://godoc.org/github.com/rhinosf1/ircmsg?status.svg)](https://godoc.org/github.com/rhinosf1/ircmsg)
 
 ## Message
 
@@ -14,8 +14,8 @@ message := ircmsg.ParseMessage(raw)
 raw = message.String()
 ```
 
-[message]: https://godoc.org/github.com/ugjka/ircmsg#Message "Message type documentation"
-[prefix]: https://godoc.org/github.com/ugjka/ircmsg#Prefix "Prefix type documentation"
+[message]: https://godoc.org/github.com/rhinosf1/ircmsg#Message "Message type documentation"
+[prefix]: https://godoc.org/github.com/rhinosf1/ircmsg#Prefix "Prefix type documentation"
 
 ## Warning
 
